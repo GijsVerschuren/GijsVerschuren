@@ -5,7 +5,6 @@
 - 😄 Pronouns: whatever idc
 - ⚡ Fun fact: i like to read
 
-- [![GitHub Streak](https://streak-stats.demolab.com?user=GijsVerschuren)](https://git.io/streak-stats)
 
 <!---
 GijsVerschuren/GijsVerschuren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
